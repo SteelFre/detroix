@@ -1,0 +1,28 @@
+Organizing for buidling website
+
+/* 
+    https://www.photopea.com
+    Prepare colors for the design
+
+    colors
+    
+    primary => #131c29
+    secondary => #ff8901
+    link color => #596573
+    top gradient => #33597e
+    bottom gradient => #0f1721
+    footer => #0b1016
+    btn-color => #213349
+    date1 => #be8442
+    date2 => #be6142
+    date3 => #bd425f
+*/
+
+/*
+    https://fonts.google.com/
+
+    fonts
+
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+*/
